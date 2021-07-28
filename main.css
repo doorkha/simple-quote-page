@@ -1,3 +1,6 @@
 body {
-  background-image: url("assets/freedom.jpg");
+  background-image:url("assets/freedom.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
 }
